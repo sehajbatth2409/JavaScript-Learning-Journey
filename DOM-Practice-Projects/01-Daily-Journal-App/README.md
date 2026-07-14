@@ -56,6 +56,7 @@ A JavaScript DOM project that provides a simple digital journal for writing dail
 
 
 ## 📂 Project Structure
+```
 
 Daily Journal App/
 │
@@ -63,6 +64,7 @@ Daily Journal App/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 
 ## ▶️ How to Run
@@ -104,7 +106,7 @@ This project helped me improve my understanding of:
 ## 📸 Preview
  
  
-_
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/9547f1ce-09c3-469b-8689-9f60c954a3b1" />
 
 
 ## 👩‍💻 Author
