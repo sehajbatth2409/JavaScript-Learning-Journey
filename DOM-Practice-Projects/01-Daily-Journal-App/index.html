@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Journal</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Daily Journal</h1>
+
+    <p class="subtitle">
+        Write your thoughts below.
+    </p>
+
+    <div class="journal">
+
+        <textarea
+        id="text"
+        placeholder="Dear Diary..."
+        ></textarea>
+
+        <div class="bottom">
+
+            <div class="left">
+
+                <div class="progress">
+
+                    <div class="fill"></div>
+
+                </div>
+
+            </div>
+
+            <div class="right">
+
+                <span id="count">0</span>
+
+                /
+
+                <span>300</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <p id="remaining">
+        300 words remaining
+    </p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
