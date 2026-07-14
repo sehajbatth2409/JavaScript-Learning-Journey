@@ -103,7 +103,8 @@ This project helped me improve my understanding of:
 
 ## 📸 Preview
 
-<img width="1900" height="892" alt="Screenshot 2026-07-14 221838" src="https://github.com/user-attachments/assets/82f979d4-04d4-4478-86ea-f2f7530bb03d" />
+<img width="1892" height="900" alt="Screenshot 2026-07-14 231502" src="https://github.com/user-attachments/assets/e05de132-b669-410e-9d51-2a410696ffc3" />
+
 
 ## 👩‍💻 Author
 
